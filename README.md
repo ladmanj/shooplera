@@ -1,11 +1,11 @@
 # shooplera
 USB HID interface for digital calipers
 
-##shusb
+- shusb
 Firmware for STM32F103 MCU
 
-##shoop
+- shoop
 PC program sending HID command to the MCU
 
-##hw
+- hw
 Description of the modification of the chinese st-link clone PCB
