@@ -5,7 +5,7 @@ USB HID interface for digital calipers
 Firmware for STM32F103 MCU
 
 ## shoop
-PC program sending HID command to the MCU
+PC program sending HID command to the MCU. 
 Windows version doesn't work as expected due to an unexpected security policy or something similar.
 
 ## hw
