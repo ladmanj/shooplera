@@ -1,5 +1,7 @@
 # shooplera
 USB HID interface for digital calipers.
+Mine is INSIZE 1108-200. It has micro USB connector, but the communication isn't USB at all. It's 24 bit synchronous serial protocol, which is commonly associated with cheap Chinese calipers.
+
 
 ## shusb
 Firmware for STM32F103 MCU.
@@ -13,3 +15,4 @@ Unfortunately again, I failed to find a solution for that problem within one wee
 
 ## hw
 Description of the modification of the Chinese st-link clone PCB.
+Not a complete guide how to do it.
